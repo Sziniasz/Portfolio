@@ -1,0 +1,130 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #E8D2A6;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #E8D2A6;
+
+}
+
+a {
+  color: #E1EEDD;
+  text-decoration: none;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #E8D2A6;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #E8D2A6;
+}
+
+div {
+  background-color: #E1EEDD;
+
+}
+
+.top-container {
+  background-color:#FEFBE9;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container {
+
+}
+.bottom-container {
+  background-color: #E8D2A6;
+
+}
+
+.footer-link {
+  background-color: #E8D2A6;
+  display: inline-block;
+  padding: 20px;
+  
+}
+
+.my-name {
+  color: #E1EEDD
+
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.my-pfp {
+  border-radius: 50%;
+  height: 300px;
+  margin-top: 80px;
+
+
+  
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.hacker-img {
+  width: 25%;
+   float: right;
+   margin-left: 30px;
+}
+
+.btn {
+  border: none;
+  height: 50px;
+  width: 100px;
+  border-radius: 25px;
+  background-color: #E8D2A6;
+  cursor: pointer;
+  color: #E1EEDD;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.hey-text {
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.vonalka {
+  margin-top: 100px;
+  margin-bottom: 70px;
+}
+
+.contact-me { 
+  background-color: #E1EEDD;
+}
